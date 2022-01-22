@@ -1,4 +1,4 @@
-# AI-on-Cpp
+# Machine & Deep learning on Cpp
 
 The goal of these projects is to improve model training time and give optimal inference results.
 
@@ -6,7 +6,7 @@ Use CMake to configure on Linux system for these projects.
 
 ## Logistic Regression on C++
 
-*Reference*: https://github.com/coding-ai/machine_learning_cpp
+**Reference**: https://github.com/coding-ai/machine_learning_cpp
 
 ### Install independences
 1. Boost
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### Compile project:
 
-*Change ${PWD}/eigen* to the eigen path of the project.
+**Change ${PWD}/eigen** to the eigen path of the project.
 
 ```bash
 bash main-project.sh
