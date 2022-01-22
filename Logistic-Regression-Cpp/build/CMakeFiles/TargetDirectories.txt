@@ -1,0 +1,3 @@
+/mnt/c/Users/Modern 14/projects/AI-on-Cpp/Logistic-Regression-Cpp/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Modern 14/projects/AI-on-Cpp/Logistic-Regression-Cpp/build/CMakeFiles/stroke.dir
+/mnt/c/Users/Modern 14/projects/AI-on-Cpp/Logistic-Regression-Cpp/build/CMakeFiles/edit_cache.dir
