@@ -6,12 +6,13 @@ Use CMake to configure on Linux system for these projects.
 
 ## Logistic Regression on C++
 
-*Reference: https://github.com/coding-ai/machine_learning_cpp
+*Reference*: https://github.com/coding-ai/machine_learning_cpp
 
 ### Install independences
 1. Boost
 
 Boost Libraries are set of peer-reviewed and mostly header-only libraries used by many projects and applications. They are regarded as an extension of the C++ standard library and even many features from the C++ standard come from Boost. Boost provides many facilities for numerical computing; parsers; template metaprogramming; network sockets TCP/IP and UDP; inter process communication; shared memory and so on.
+
 Website: https://www.boost.org/
 
 ```bash
@@ -29,6 +30,7 @@ bash eigen-setup.sh
 It's take a lot of your minutes.
 
 3. Pre-processing (Optional with python)
+
 Because in C++ it is very difficult to deal with table data preprocessing. Instead, we preprocessed the data with the file <stroke-data-processed.csv> or the user can run the script below to perform this preprocessing step.
 
 ```bash
@@ -39,7 +41,7 @@ pip install -r requirements.txt
 
 ### Compile project:
 
-Change ${PWD}/eigen to the eigen path of the project.
+*Change ${PWD}/eigen* to the eigen path of the project.
 
 ```bash
 bash main-project.sh
