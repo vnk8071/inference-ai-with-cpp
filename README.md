@@ -1,5 +1,7 @@
 # Machine & Deep learning on Cpp
 
+Projects: [**Logistic Regression**](#logistic-regression-on-c) | [**Try your best**](#try-your-best-)
+
 The goal of these projects is to improve model training time and give optimal inference results.
 
 Use CMake to configure on Linux system for these projects.
@@ -10,8 +12,6 @@ bash cmake-setup.sh
 ```
 
 Check CMake installed `cmake --version`
-
-Projects: [**Logistic Regression**](#logistic-regression-on-c) | [**Try your best**](#try-your-best-)
 
 ## Logistic Regression on C++
 
