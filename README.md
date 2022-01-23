@@ -4,6 +4,15 @@ The goal of these projects is to improve model training time and give optimal in
 
 Use CMake to configure on Linux system for these projects.
 
+Setup CMake
+```bash
+bash cmake-setup.sh
+```
+
+Check CMake installed `cmake --version`
+
+Projects: [**Logistic Regression**](#Logistic-Regression-on-C++) | [**Try your best**](#Try-your-best-^^)
+
 ## Logistic Regression on C++
 
 ```bash
