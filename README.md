@@ -11,7 +11,7 @@ bash cmake-setup.sh
 
 Check CMake installed `cmake --version`
 
-Projects: [**Logistic Regression**](#Logistic-Regression-on-C++) | [**Try your best**](#Try-your-best-^^)
+Projects: [**Logistic Regression**](#logistic-regression-on-c) | [**Try your best**](#try-your-best-)
 
 ## Logistic Regression on C++
 
