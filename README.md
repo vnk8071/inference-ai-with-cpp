@@ -1,6 +1,6 @@
 # Machine & Deep learning on Cpp
 
-Projects: [**Logistic Regression**](#logistic-regression-on-c) | [**Try your best**](#try-your-best-)
+Projects: [**Logistic Regression**](#logistic-regression-on-c) | [**Detectron2**](#inference-detectron2-on-c) | [**Try your best**](#try-your-best-)
 
 The goal of these projects is to improve model training time and give optimal inference results.
 
