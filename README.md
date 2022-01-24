@@ -20,7 +20,20 @@ git clone https://github.com/vnk8071/AI-on-Cpp.git
 cd Logistic-Regression-Cpp
 ```
 
+See README.md for more details in Logistic-Regression-Cpp
+
 **Reference**: https://github.com/coding-ai/machine_learning_cpp
 
+## Inference Detectron2 on C++
+```bash
+git clone https://github.com/vnk8071/AI-on-Cpp.git
+cd Detectron2-Cpp
+```
+
+See README.md for more details in Detectron2-Cpp
+
+Follow my repo detectron2-object-detection to see training process.
+
+Link: https://github.com/vnk8071/detectron2-object-detection
 
 ## Try your best ^^
