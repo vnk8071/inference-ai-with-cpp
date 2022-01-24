@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10 FATAL_ERROR)
 project(stroke)
 set(CMAKE_PREFIX_PATH "/usr/lib/x86_64-linux-gnu/cmake")
-list(APPEND CMAKE_PREFIX_PATH "${PWD}/eigen")
+list(APPEND CMAKE_PREFIX_PATH "${CMAKE_CURRENT_LIST_DIR}/eigen")
 find_package(Eigen3 REQUIRED)
 
 find_package(Boost COMPONENTS system filesystem REQUIRED)

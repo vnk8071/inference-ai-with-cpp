@@ -40,12 +40,10 @@ Because in C++ it is very difficult to deal with table data preprocessing. Inste
 conda create -n strokecpp python=3.7
 conda activate strokecpp
 pip install -r requirements.txt
+python src/data_preprocessing.py
 ```
 
 ### Compile project:
-
-Change ${PWD}/eigen to the eigen path of the project.
-
 ```bash
 bash main-project.sh
 ```
